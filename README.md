@@ -1,6 +1,6 @@
 # forky.boo
 
-A personal tech blog. Mainly about Kotlin.
+A personal tech blog.
 
 <br/><br/><br/>
 
