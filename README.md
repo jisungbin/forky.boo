@@ -1,6 +1,6 @@
 # forky.boo
 
-A personal tech blog.
+A personal tech website.
 
 <br/><br/><br/>
 
