@@ -1,6 +1,6 @@
 # forky.boo
 
-A personal tech website.
+A personal tech website built with Gleam’s [Lustre](https://github.com/lustre-labs/lustre), mainly updated through GitHub Actions.
 
 <br/><br/><br/>
 
